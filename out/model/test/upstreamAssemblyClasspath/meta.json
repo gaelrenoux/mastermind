@@ -1,0 +1,41 @@
+{
+    "value": [
+        {
+            "path": "/home/gael/Repositories/Gael/mastermind/model/resources",
+            "quick": false,
+            "sig": -914035544
+        },
+        {
+            "path": "/home/gael/Repositories/Gael/mastermind/out/model/compile/dest/classes",
+            "quick": false,
+            "sig": 173626269
+        },
+        {
+            "path": "/home/gael/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6.jar",
+            "quick": true,
+            "sig": 2029838883
+        },
+        {
+            "path": "/home/gael/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5.jar",
+            "quick": true,
+            "sig": 1955849150
+        },
+        {
+            "path": "/home/gael/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar",
+            "quick": true,
+            "sig": 523085850
+        },
+        {
+            "path": "/home/gael/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.4/scala-reflect-2.12.4.jar",
+            "quick": true,
+            "sig": -919395706
+        },
+        {
+            "path": "/home/gael/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar",
+            "quick": true,
+            "sig": 56704110
+        }
+    ],
+    "valueHash": -1389294284,
+    "inputsHash": -815226360
+}

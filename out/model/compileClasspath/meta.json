@@ -1,0 +1,16 @@
+{
+    "value": [
+        {
+            "path": "/home/gael/Repositories/Gael/mastermind/model/resources",
+            "quick": false,
+            "sig": -914035544
+        },
+        {
+            "path": "/home/gael/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6.jar",
+            "quick": true,
+            "sig": 2029838883
+        }
+    ],
+    "valueHash": 1115803339,
+    "inputsHash": 1262871436
+}

@@ -1,0 +1,26 @@
+{
+    "value": [
+        {
+            "path": "/home/gael/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6.jar",
+            "quick": true,
+            "sig": 2029838883
+        },
+        {
+            "path": "/home/gael/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar",
+            "quick": true,
+            "sig": 56704110
+        },
+        {
+            "path": "/home/gael/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.6/scala-compiler-2.12.6.jar",
+            "quick": true,
+            "sig": 671566474
+        },
+        {
+            "path": "/home/gael/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.6/scala-reflect-2.12.6.jar",
+            "quick": true,
+            "sig": -724852382
+        }
+    ],
+    "valueHash": 2033257085,
+    "inputsHash": -593017968
+}

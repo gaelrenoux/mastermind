@@ -1,0 +1,31 @@
+{
+    "value": [
+        {
+            "path": "/home/gael/Repositories/Gael/mastermind/model/src/foo/Example.scala",
+            "quick": false,
+            "sig": 1073429006
+        },
+        {
+            "path": "/home/gael/Repositories/Gael/mastermind/model/src/mastermind/model/Game.scala",
+            "quick": false,
+            "sig": -155730663
+        },
+        {
+            "path": "/home/gael/Repositories/Gael/mastermind/model/src/mastermind/model/Peg.scala",
+            "quick": false,
+            "sig": 1053577670
+        },
+        {
+            "path": "/home/gael/Repositories/Gael/mastermind/model/src/mastermind/model/Quadruplet.scala",
+            "quick": false,
+            "sig": 1457891607
+        },
+        {
+            "path": "/home/gael/Repositories/Gael/mastermind/model/src/mastermind/model/Score.scala",
+            "quick": false,
+            "sig": 561991217
+        }
+    ],
+    "valueHash": -1908928824,
+    "inputsHash": 303138326
+}

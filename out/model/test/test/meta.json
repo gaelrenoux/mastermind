@@ -1,0 +1,21 @@
+{
+    "value": [
+        "()",
+        [
+            {
+                "fullyQualifiedName": "mastermind.model.ScoreTest",
+                "selector": "Score.from should count good values with good position",
+                "duration": "88",
+                "status": "Success"
+            },
+            {
+                "fullyQualifiedName": "mastermind.model.ScoreTest",
+                "selector": "Score.from should count good values with bad position",
+                "duration": "4",
+                "status": "Success"
+            }
+        ]
+    ],
+    "valueHash": -2110979634,
+    "inputsHash": 1401968075
+}

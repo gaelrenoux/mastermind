@@ -1,0 +1,12 @@
+{
+    "value": {
+        "analysisFile": "/home/gael/Repositories/Gael/mastermind/out/model/test/compile/dest/zinc",
+        "classes": {
+            "path": "/home/gael/Repositories/Gael/mastermind/out/model/test/compile/dest/classes",
+            "quick": false,
+            "sig": -1694547252
+        }
+    },
+    "valueHash": 10040771,
+    "inputsHash": 63944391
+}

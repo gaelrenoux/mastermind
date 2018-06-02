@@ -1,26 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
-    <component name="NewModuleRootManager">
-        <output-test url="file://$MODULE_DIR$/../out/model/test/compile/dest/classes"/>
-        <exclude-output/>
-        <content url="file://$MODULE_DIR$/../out/model/test/generatedSources/dest"/>
-        <content url="file://$MODULE_DIR$/../model/test">
-            <sourceFolder url="file://$MODULE_DIR$/../model/test/src" isTestSource="true"/>
-            <sourceFolder url="file://$MODULE_DIR$/../model/test/resources" type="java-test-resource"/>
-            <excludeFolder url="file://$MODULE_DIR$/../model/test/target"/>
-        </content>
-        <orderEntry type="inheritedJdk"/>
-        <orderEntry type="sourceFolder" forTests="false"/>
-        <orderEntry type="library" name="scala-sdk-2.12.6" level="application"/>
-        <orderEntry type="library" name="scala-library-2.12.6-sources.jar" level="project"/>
-        <orderEntry type="library" name="scala-library-2.12.6.jar" level="project"/>
-        <orderEntry type="library" name="scala-reflect-2.12.4-sources.jar" level="project"/>
-        <orderEntry type="library" name="scala-reflect-2.12.4.jar" level="project"/>
-        <orderEntry type="library" name="scala-xml_2.12-1.0.6-sources.jar" level="project"/>
-        <orderEntry type="library" name="scala-xml_2.12-1.0.6.jar" level="project"/>
-        <orderEntry type="library" name="scalactic_2.12-3.0.5-sources.jar" level="project"/>
-        <orderEntry type="library" name="scalactic_2.12-3.0.5.jar" level="project"/>
-        <orderEntry type="library" name="scalatest_2.12-3.0.5-sources.jar" level="project"/>
-        <orderEntry type="library" name="scalatest_2.12-3.0.5.jar" level="project"/>
-        <orderEntry type="module" module-name="model" exported=""/>
-    </component>
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../out/model/test/compile/dest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../model/test">
+      <sourceFolder url="file://$MODULE_DIR$/../model/test/src" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../model/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../model/test/target" />
+    </content>
+    <content url="file://$MODULE_DIR$/../out/model/test/generatedSources/dest" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="scala-sdk-2.12.6" level="application" />
+    <orderEntry type="library" name="scala-library-2.12.6-sources.jar" level="project" />
+    <orderEntry type="library" name="scala-library-2.12.6.jar" level="project" />
+    <orderEntry type="library" name="scala-reflect-2.12.4-sources.jar" level="project" />
+    <orderEntry type="library" name="scala-reflect-2.12.4.jar" level="project" />
+    <orderEntry type="library" name="scala-xml_2.12-1.0.6-sources.jar" level="project" />
+    <orderEntry type="library" name="scala-xml_2.12-1.0.6.jar" level="project" />
+    <orderEntry type="library" name="scalactic_2.12-3.0.5-sources.jar" level="project" />
+    <orderEntry type="library" name="scalactic_2.12-3.0.5.jar" level="project" />
+    <orderEntry type="library" name="scalatest_2.12-3.0.5-sources.jar" level="project" />
+    <orderEntry type="library" name="scalatest_2.12-3.0.5.jar" level="project" />
+    <orderEntry type="module" module-name="model" exported="" />
+  </component>
 </module>

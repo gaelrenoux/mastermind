@@ -1,0 +1,16 @@
+{
+    "value": [
+        {
+            "path": "/home/gael/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.1.0/compiler-interface-1.1.0.jar",
+            "quick": true,
+            "sig": -68210189
+        },
+        {
+            "path": "/home/gael/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.1.2/util-interface-1.1.2.jar",
+            "quick": true,
+            "sig": 1653780913
+        }
+    ],
+    "valueHash": 1585570724,
+    "inputsHash": 150230786
+}

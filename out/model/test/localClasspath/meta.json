@@ -1,0 +1,16 @@
+{
+    "value": [
+        {
+            "path": "/home/gael/Repositories/Gael/mastermind/model/test/resources",
+            "quick": false,
+            "sig": -914035544
+        },
+        {
+            "path": "/home/gael/Repositories/Gael/mastermind/out/model/test/compile/dest/classes",
+            "quick": false,
+            "sig": -1694547252
+        }
+    ],
+    "valueHash": 1194564136,
+    "inputsHash": 1854513206
+}

@@ -1,0 +1,9 @@
+[32mScoreTest:[0m
+[32mScore.from[0m
+[32m- should count good values with good position[0m
+[32m- should count good values with bad position[0m
+[36mRun completed in 350 milliseconds.[0m
+[36mTotal number of tests run: 2[0m
+[36mSuites: completed 1, aborted 0[0m
+[36mTests: succeeded 2, failed 0, canceled 0, ignored 0, pending 0[0m
+[32mAll tests passed.[0m
